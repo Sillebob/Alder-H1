@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alder H1", "Alder H1\Alder H1.csproj", "{813A354C-1F45-4595-9050-FAD3AC7D608E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813A354C-1F45-4595-9050-FAD3AC7D608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813A354C-1F45-4595-9050-FAD3AC7D608E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813A354C-1F45-4595-9050-FAD3AC7D608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813A354C-1F45-4595-9050-FAD3AC7D608E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE7A99D9-9142-4E2E-A907-50A24F60DF90}
+	EndGlobalSection
+EndGlobal
